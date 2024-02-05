@@ -12,5 +12,9 @@ input_text.txtの内容を読み込んで複製し、指定された回数だけ
 ### replace-string
 input_text.txtの内容から文字列'needle'を検索し、すべての該当文字列を'newstring'に置き換えます。</br>
 
+
+
+
+
 ### 備考
 ・存在しないコマンドが入力された場合と、duplicate-contentsで整数以外の数字が入力された場合の処理を実装しました。
