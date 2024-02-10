@@ -1,7 +1,6 @@
 # file_manipulator_program
-
-Recursion Backend Project1のFile Manipulator Programの成果物です。
-ターミナルで実行すると、コマンドの入力を求められるので、以下のコマンドから選んで入力してください
+ファイルの操作を行うコマンドを提供するプログラムです。
+ターミナルで実行すると、コマンドの入力を求められるので、以下のコマンドから選んで入力してください。
 
 ### reverse
 *python3 file_manipulator.py reverse inputpath outputpath*
