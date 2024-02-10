@@ -1,4 +1,4 @@
-# file_manipulator_program
+# File Manipulator Program
 ファイルの操作を行うコマンドを提供するプログラムです。
 ターミナルで実行すると、コマンドの入力を求められるので、以下のコマンドから選んで入力してください。
 </br>
