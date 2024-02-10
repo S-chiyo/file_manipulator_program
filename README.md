@@ -1,6 +1,8 @@
 # file_manipulator_program
 ファイルの操作を行うコマンドを提供するプログラムです。
 ターミナルで実行すると、コマンドの入力を求められるので、以下のコマンドから選んで入力してください。
+</br>
+</br>
 ## コマンド一覧
 ### reverse
 *python3 file_manipulator.py reverse inputpath outputpath*
@@ -19,7 +21,6 @@ inputpathの内容から文字列'needle'を検索し、すべての該当文字
 input/outputに使用したファイルの入力内容を初期値にリセットすることができます。テスト用に作成しました。</br>
 </br>
 </br>
-</br>
 ## 工夫した点
 ・存在しないコマンドが入力された場合に「入力が間違っています。」と表示されるようにしました。</br>
 ・duplicate-contentsで整数以外の数字が入力された場合に再入力を求めるようにしました。</br>
@@ -27,5 +28,7 @@ input/outputに使用したファイルの入力内容を初期値にリセッ�
 
 ## 開発環境
 Visual Studio Code
+</br>
+</br>
 ## 実行環境
 Windows 11
