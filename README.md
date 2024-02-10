@@ -28,7 +28,7 @@ input/outputに使用したファイルの入力内容を初期値にリセッ�
 - 動作テストの際に使用するためのresetコマンドを実装しました。
 </br>
 </br>
-## 開発環境
+## 工夫した点
 Visual Studio Code
 </br>
 </br>
